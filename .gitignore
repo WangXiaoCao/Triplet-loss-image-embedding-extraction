@@ -1,0 +1,7 @@
+model/
+log/
+data/image_data/
+.pytest_cache/
+__pycache__/
+.DS_Store
+.idea/
